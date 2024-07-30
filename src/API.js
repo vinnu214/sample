@@ -1,0 +1,1 @@
+export const HOUSES_API = 'https://www.anapioficeandfire.com/api/houses'
